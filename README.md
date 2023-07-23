@@ -7,4 +7,6 @@ A MegaGlest techtree
 Every unit you kill becomes yours!
 
 This mod was originally created by [Keith
-Sammut](http://keithsammut.weebly.com/)
+Sammut](http://keithsammut.weebly.com/). (See [this forum
+post](https://forum.megaglest.org/index.php?topic=9842.msg92612#msg92612) for
+more details.
