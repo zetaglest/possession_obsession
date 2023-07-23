@@ -2,7 +2,7 @@
 
 # possession obsession
 
-A MegaGlest techtree
+A MegaGlest scenario
 
 Every unit you kill becomes yours!
 
