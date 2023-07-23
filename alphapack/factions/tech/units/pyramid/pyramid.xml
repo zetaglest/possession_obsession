@@ -114,7 +114,7 @@
 			<unit-requirements />
 			<upgrade-requirements />
 			<produce-skill value="produce_skill"/>
-			<produced-unit name="slave"/>
+			<produced-unit name="slave_"/>
 		</command>
 
 	</commands>

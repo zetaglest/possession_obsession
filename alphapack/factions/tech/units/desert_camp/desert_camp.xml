@@ -134,7 +134,7 @@
 			<unit-requirements />
 			<upgrade-requirements />
 			<produce-skill value="produce_black_skill"/>
-			<produced-unit name="spearman_"/>
+			<produced-unit name="spearman"/>
 		</command>
 
 		<command>
